@@ -179,7 +179,7 @@
     "html-webpack-plugin": "^2.24.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^23.6.0",
-    "jsdom": "^9.8.2",
+    "jsdom": "^16.5.0",
     "koa-webpack-hot-middleware": "^1.0.3",
     "mocha": "^3.1.2",
     "mocha-loader": "^1.1.1",
